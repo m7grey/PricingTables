@@ -28,3 +28,19 @@ h2{
 .price-box:hover, .price-box.best{
 	box-shadow: 0 10px 15px 0 #000;
 }
+
+.price-box .header{
+	background-color:#111;
+	color:#fff;
+	font-size:25px;
+}
+
+.price-box .header.header-green{
+	background-color:#4CAf50;
+}
+
+.price-box li{
+	padding:20px;
+	border-bottom:1px solid #eee;
+	text-align:center;
+}
